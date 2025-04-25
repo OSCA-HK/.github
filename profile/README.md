@@ -1,4 +1,4 @@
-![OSCA-HK logo](OSCA-HK1.png)
+![OSCA-HK logo](../logo/OSCA-HK2.png)
 
 ## Hi there 👋
 
