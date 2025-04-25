@@ -1,6 +1,8 @@
 ![OSCA-HK logo](../logo/OSCA-HK2.png)
 
-## Hi there 👋
+## Open Source Community Alliance of Hong Kong Universities
+
+Open Source Community Alliance of Hong Kong Universities(OSCA-HK) is a community that covering different background students from all hong kong universities.
 
 <!--
 
