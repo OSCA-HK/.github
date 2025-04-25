@@ -14,3 +14,10 @@ Open Source Community Alliance of Hong Kong Universities(OSCA-HK) is a community
     <img src="../logo/CUHK_logo.png" style="width: 90px; height: auto; display: block"/>
   </a>
 </div>
+
+## Clients and Partners
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center">
+  <a href="https://www.openeuler.org/en/">
+    <img src="../logo/openeuler_logo.png" style="width: 120px; height: auto; display: block"/>
+  </a>
+</div>
