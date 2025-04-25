@@ -6,11 +6,11 @@ Open Source Community Alliance of Hong Kong Universities(OSCA-HK) is a community
 
 
 ## Joined universities
-<div style="display: flex; gap: 20px; align-items: center">
+<div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center">
   <a href="https://www.cityu.edu.hk/">
-    <img src="../logo/CityUHK_logo.png" style="max-width: 120px; height: auto; display: block"/>
+    <img src="../logo/CityUHK_logo.png" style="width: 120px; height: auto; display: block"/>
   </a>
   <a href="https://www.cuhk.edu.hk/english/index.html">
-    <img src="../logo/CUHK_logo.png" style="max-width: 90px; height: auto; display: block"/>
+    <img src="../logo/CUHK_logo.png" style="width: 90px; height: auto; display: block"/>
   </a>
 </div>
