@@ -1,1 +1,1 @@
-This is a profile repository. Edit in `/profile/README.md`.
+### This is a profile repository. Edit in `/profile/README.md`.
